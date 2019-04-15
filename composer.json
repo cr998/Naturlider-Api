@@ -1,0 +1,15 @@
+{
+  "name": "cr998/Naturlider-Api",
+  "description": "Libreria para realizar crawling sobre el area de mayoristas de naturlider",
+  "type": "library",
+  "authors": [
+      {
+          "name": "Cristian Martínez Montes",
+          "email": "cr998m.m@gmail.com"
+      }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "fabpot/goutte": "^3.2"
+  }
+}
