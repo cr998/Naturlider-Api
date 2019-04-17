@@ -13,6 +13,6 @@
     "fabpot/goutte": "^3.2"
   },
   "autoload": {
-    "psr-4": { "Cr998\\Naturlider\\": "src/" }
+    "psr-4": { "": "src/" }
   }
 }
